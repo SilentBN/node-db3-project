@@ -20,9 +20,10 @@
     "supertest": "^6.2.3"
   },
   "dependencies": {
-    "sqlite3": "^5.0.8",
     "express": "^4.19.2",
-    "knex": "^3.1.0"
+    "express-rate-limit": "^7.3.1",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.0.8"
   },
   "repository": {
     "type": "git",
